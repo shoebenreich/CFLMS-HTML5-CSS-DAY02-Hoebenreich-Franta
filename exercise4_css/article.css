@@ -1,0 +1,16 @@
+ article{
+     position: absolute;
+     width: 80%;
+     right: 0;
+     background-color: gainsboro;
+     font-family: Arial;
+     padding: 1em;
+     margin: 1em;
+     margin-bottom: 7em;
+ }
+
+ .description{
+     margin-bottom: 2em;
+     font-weight: bold;
+     text-align: center;
+ }

@@ -1,3 +1,26 @@
 .sidebar {
-    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: darkcyan;
+    color: white;
+    position: absolute;
+    left: 0;
+    width: 10%;
+    height: 55%;
+    margin-left: 1em;
+    padding: 1em;
+    padding-top: 2em;
 }
+
+.sidebar a {
+    color: white;
+    
+}
+
+.sidebar ul{
+    margin-top: 3em;
+}
+
+.sidebar li{
+    margin-bottom: 1em;
+}
+
