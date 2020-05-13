@@ -1,6 +1,7 @@
  article{
      position: absolute;
      display: inline-block; 
+     z-index: 0;
      width: 80%;
      right: 0;
      background-color: gainsboro;
