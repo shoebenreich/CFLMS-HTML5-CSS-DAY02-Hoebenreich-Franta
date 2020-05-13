@@ -1,14 +1,18 @@
 .sidebar {
     font-family: 'PT Sans Narrow', sans-serif;
     background-color: darkcyan;
+    display: inline-block;
     color: white;
-    position: absolute;
+    position: fixed;
+    z-index: 1;
     left: 0;
     width: 10%;
     height: 55%;
-    margin-left: 1em;
+    margin-top: 200px;;
+    margin-left: 0;
     padding: 1em;
-    padding-top: 2em;
+    
+    
 }
 
 .sidebar a {
