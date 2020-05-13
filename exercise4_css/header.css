@@ -1,11 +1,15 @@
 header {
     font-family: 'Balsamiq Sans', cursive;
-    background-image: url("header.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: darkslategrey;
+    padding: 0.5em;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    top:0;
+    width: 100%;
 }
 .headline {
-    color: red;
+    color: white;
 }
 ul {
     color: black;
