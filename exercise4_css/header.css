@@ -1,0 +1,21 @@
+header {
+    font-family: 'Balsamiq Sans', cursive;
+    background-image: url("header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headline {
+    color: red;
+}
+ul {
+    color: black;
+    font-weight: 600;
+    font-size: 14pt;
+    list-style-type: none;
+    padding: 20pt;
+
+}
+ul li {
+    display: inline-block;
+    margin: 10pt;
+}
