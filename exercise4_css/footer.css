@@ -1,0 +1,27 @@
+footer{
+    height: 2em;
+    background-color: darkslategrey;
+    color: white;
+    padding: 1em;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+footer a{
+    color: white;
+
+}
+
+.footer-element{
+    margin-right: 2em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1em;
+}
+
+span{
+
+}
+
+
