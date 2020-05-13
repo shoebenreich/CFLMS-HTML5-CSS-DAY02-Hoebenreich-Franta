@@ -1,0 +1,16 @@
+div{
+    border: 0.2em gainsboro solid;
+    margin: 5px;
+}
+
+#third>p{
+    display: none;
+}
+
+h1{
+    display: none;
+}
+
+#second*{
+    display: none;
+}
